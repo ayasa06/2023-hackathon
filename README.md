@@ -1,1 +1,1 @@
-# 2023-hackathon
+# WIZB-UDC
